@@ -1,0 +1,13 @@
+.PrincipalUsuario {
+    text-align: center;
+  }
+.PrincipalUsuario-header {
+    position: relative;
+    width: 926px;
+    height: 428px;
+
+    background: linear-gradient(180deg, #FF814B 0%, #FAC3AC 100%);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    backdrop-filter: blur(4px);
+}
